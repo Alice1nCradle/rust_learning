@@ -8,7 +8,7 @@ fn main() {
     hello::main();
     //1. about the statement and expression
     statement_and_expression::about();
-    //2. about the variable and binding (not finished)
+    //2. about the variable and binding
     variable_and_binding::about();
     //about the CTFE
     ctfe::about();
