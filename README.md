@@ -10,5 +10,6 @@ Use Rust to create a way to learn rust, it's not only a warm heart but also a pr
 2. Variable and Binding (not finished)
 
 ## How?
-create a new rust project, and then import *.rs into your source code.
+Import *.rs into your source code.
+
 Attention! Not this README!
