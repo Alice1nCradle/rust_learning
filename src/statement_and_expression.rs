@@ -39,14 +39,13 @@ fn about_expression()
 {
     println!("Second, let's start with Expression.");
     println!("The expression is used to calculation");
-    fn sum()
+    println!("Take a function for example:");
     {
-        println!("Assume that there is a function named sum(), and it can plus two numbers.");
+        println!("Now we even get into a block expression, it will return the last value it calculated.");
+        println!("Assume that this block expression is named sum(), and it can plus two numbers.");
         println!("Let them be a and b");
         let a = 114514;
         let b = 1919810;
         println!("And the final answer is {}\n", a + b);
     }
-    println!("Take a function for example:");
-    sum();
 }
